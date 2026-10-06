@@ -1,0 +1,4 @@
+.DS_Store
+
+# STM32CubeIDE build output
+ch3/h/Debug/
